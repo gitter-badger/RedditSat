@@ -1,5 +1,7 @@
-#Beacon software system design
-##17/07/2018 - Richard Bamford
+Beacon software system design
+============================
+17/07/2018 - Richard Bamford
+----------------------------
 
 ### Overview
 - The "system design.docx" defines the exact features required in the arduino sketch running on the beacon's ATMEGA chip along with the detailed formats.
